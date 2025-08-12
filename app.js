@@ -58,3 +58,4 @@ function reiniciarJuego() {
   //limpiar campo de texto
   document.getElementById('amigo').value = '';
 }
+
